@@ -33,6 +33,8 @@ See [research standards](research/RESEARCH_STANDARDS.md), [official source regis
 
 ## Town records received
 
+- [November 19, 2026 formal DPW records response](public-records-requests/2026-11-19-dpw-records-production/README.md): 59-page official reply, current organization chart and FY2022–FY2026 payroll detail received; PDF itself not yet uploaded
+
 - [November 12, 2026 accounting data intake](records/2026-11-12-accounting-response/README.md): seven source workbooks inventoried; signed ledger totals, fiscal-year summaries and DPW general-fund breakdown posted; original workbooks pending privacy review and secure storage
 - [DPW staffing request response](public-records-requests/2026-11-10-dpw-staffing-payroll-request.md): partial response November 12; compensation and existing organizational records still pending
 
