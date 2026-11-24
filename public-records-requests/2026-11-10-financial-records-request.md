@@ -22,13 +22,14 @@
 | --- | --- | --- |
 | 2026-11-10 | Request sent (requester-reported) | Sent | 
 | 2026-11-12 | Requester supplied seven Excel workbooks described as the response from Donna Fernandes | Received; not yet reconciled or cleared for raw public release |
-| 2026-11-24 | Requester confirmed sending follow-up clarification email to Donna Fernandes | Sent; response pending |
+| 2026-11-24 | Requester confirmed sending follow-up clarification email to Donna Fernandes | Sent |
+| 2026-11-24 | Donna Fernandes replied with scope clarification and `Invoice_History_By_Fund 2022.xlsx` | Received; details [here](../records/2026-11-24-accounting-clarification/README.md) |
 
 **Received-data index:** [November 12 accounting response](../records/2026-11-12-accounting-response/README.md). This has a file checksum manifest, safe summary tables and documented limitations. The received general-fund and other-funds exports contain FY2027 records despite their "2022-2026" filenames.
 
-**November 24 follow-up confirmed sent by requester:** Asked Donna Fernandes whether the files represent all departmental expenditures or primarily invoice/vendor items, whether a complete departmental/fund/account expenditure ledger can be exported, and where payroll, benefits, capital expenditures, grants, and other costs are held. This was a clarification, not a repeat request for the seven workbooks. **Awaiting response.**
+**November 24 follow-up sent and answered:** Asked Donna whether exports represent town departmental expenses and whether a fund/account-wide extract was available. Donna replied that, to her knowledge, previously provided reports cover expenditures except taxpayer refunds, possibly some employee reimbursements, and **payroll/payroll deductions (not included)**. She confirmed capital spending and grants/gifts/revolving funds are included, and supplied the FY2022 fund-level invoice history. She offered remaining fiscal years in that format. [Detailed source index](../records/2026-11-24-accounting-clarification/README.md).
 
-**Next step:** Record Donna's reply and use it to establish which expense categories and records are covered, which require clarification or reconciliation, and which must be requested through separate custodians. Preserve originals unchanged in private storage, and perform a privacy review before raw publication. No fee estimate was provided in the user-supplied update.
+**Next step:** Request same FY-by-fund report for remaining years if useful; seek all-department payroll through appropriate custodian after checking prior requests; reconcile account codes, pass-throughs, refunds and interfund overlap. Do not repeat the original request. Preserve originals unchanged in private storage, and perform a privacy review before raw publication. No fee estimate was provided in the user-supplied update.
 
 ## Evidence and privacy standard
 
