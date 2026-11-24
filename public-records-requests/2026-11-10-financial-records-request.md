@@ -22,10 +22,13 @@
 | --- | --- | --- |
 | 2026-11-10 | Request sent (requester-reported) | Sent | 
 | 2026-11-12 | Requester supplied seven Excel workbooks described as the response from Donna Fernandes | Received; not yet reconciled or cleared for raw public release |
+| 2026-11-24 | Requester confirmed sending follow-up clarification email to Donna Fernandes | Sent; response pending |
 
 **Received-data index:** [November 12 accounting response](../records/2026-11-12-accounting-response/README.md). This has a file checksum manifest, safe summary tables and documented limitations. The received general-fund and other-funds exports contain FY2027 records despite their "2022-2026" filenames.
 
-**Next step:** Confirm with the Accounting Department whether these files fully satisfy the request or whether any responsive general ledger fields, enterprise fund datasets, payment dates, or other records remain outstanding. Preserve originals unchanged in private storage, and perform a privacy review before raw publication. No fee estimate was provided in the user-supplied update.
+**November 24 follow-up confirmed sent by requester:** Asked Donna Fernandes whether the files represent all departmental expenditures or primarily invoice/vendor items, whether a complete departmental/fund/account expenditure ledger can be exported, and where payroll, benefits, capital expenditures, grants, and other costs are held. This was a clarification, not a repeat request for the seven workbooks. **Awaiting response.**
+
+**Next step:** Record Donna's reply and use it to establish which expense categories and records are covered, which require clarification or reconciliation, and which must be requested through separate custodians. Preserve originals unchanged in private storage, and perform a privacy review before raw publication. No fee estimate was provided in the user-supplied update.
 
 ## Evidence and privacy standard
 
