@@ -1,7 +1,7 @@
 # November 25, 2026 — Donna Fernandes's additional accounting classification rules
 
 **Source:** Follow-up email from Dartmouth Accounting (Donna Fernandes) provided by requester on November 25, 2026.  
-**Status:** Email text received and documented. Donna refers to attachments, but **no new attachments from this message were accessible to this repository update**; their filenames, fiscal-year coverage, hashes, row counts, and receipt status are **not verified**. Do not mark remaining yearly reports as received yet.
+**Status:** Email text received and documented; the five accompanying FY2023–FY2027 files have subsequently been received and inspected. [Completed original-file inventory](../2026-11-25-full-fund-invoice-histories/README.md).
 
 ## New source-grounded distinctions
 
@@ -36,7 +36,7 @@ These exclusions apply **to analysis of departmental budgeted spending**. Keep s
 ## Open actions
 
 - [x] Record Nov 25 account-prefix rules from Donna's email.
-- [ ] Obtain the **actual attached files** she references, if they are additional reports; index filenames, years, hashes, row counts, and compare with earlier workbooks without double counting.
+- [x] Obtain the five FY2023–FY2027 attached files; record names, years, hashes and row counts. **Cross-file transaction reconciliation remains pending.**
 - [ ] Obtain/confirm an official chart of accounts explaining the 82, 88, 90 and capital coding conventions.
 - [ ] Reconcile FY2022–2027 annual departmental costs only after payroll, transaction-code interpretation, and overlap checks.
 - [ ] Update public research only with nonidentifying, validated summaries; original payment files belong in private storage.
