@@ -24,12 +24,13 @@
 | 2026-11-12 | Requester supplied seven Excel workbooks described as the response from Donna Fernandes | Received; not yet reconciled or cleared for raw public release |
 | 2026-11-24 | Requester confirmed sending follow-up clarification email to Donna Fernandes | Sent |
 | 2026-11-24 | Donna Fernandes replied with scope clarification and `Invoice_History_By_Fund 2022.xlsx` | Received; details [here](../records/2026-11-24-accounting-clarification/README.md) |
+| 2026-11-25 | Donna clarified accounts 88 (custody) and 82/90 (trust) as nondepartmental expenditures; referenced attachments | Email text received; referenced attachments not yet available for verification in this conversation. [Classification notes](../records/2026-11-25-accounting-classification/README.md) |
 
 **Received-data index:** [November 12 accounting response](../records/2026-11-12-accounting-response/README.md). This has a file checksum manifest, safe summary tables and documented limitations. The received general-fund and other-funds exports contain FY2027 records despite their "2022-2026" filenames.
 
 **November 24 follow-up sent and answered:** Asked Donna whether exports represent town departmental expenses and whether a fund/account-wide extract was available. Donna replied that, to her knowledge, previously provided reports cover expenditures except taxpayer refunds, possibly some employee reimbursements, and **payroll/payroll deductions (not included)**. She confirmed capital spending and grants/gifts/revolving funds are included, and supplied the FY2022 fund-level invoice history. She offered remaining fiscal years in that format. [Detailed source index](../records/2026-11-24-accounting-clarification/README.md).
 
-**Next step:** Request same FY-by-fund report for remaining years if useful; seek all-department payroll through appropriate custodian after checking prior requests; reconcile account codes, pass-throughs, refunds and interfund overlap. Do not repeat the original request. Preserve originals unchanged in private storage, and perform a privacy review before raw publication. No fee estimate was provided in the user-supplied update.
+**Next step:** Verify the attachments Donna refers to in her November 25 email before marking any additional FY-by-fund reports received. Seek all-department payroll through the appropriate custodian after checking prior requests; reconcile account codes (including custody 88, trust 82/90), pass-throughs, refunds and interfund overlap. Do not repeat the original expense request. Preserve originals unchanged in private storage, and perform a privacy review before raw publication. No fee estimate was provided in the user-supplied update.
 
 ## Evidence and privacy standard
 
