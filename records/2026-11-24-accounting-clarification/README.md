@@ -38,6 +38,12 @@ The separate FY2022 history is **not a new independent pool of FY2022 spending t
 
 **Privacy:** The original 2022 workbook contains names and payment/refund transactions (including possible taxpayer identities). Keep it in private encrypted storage. Only metadata, aggregate observations and source checksum are published here. The original Excel workbook has **not** been uploaded to this public GitHub repository or to the private Lovable app by this action.
 
+## November 25, 2026 — additional account-prefix clarification
+
+Donna subsequently clarified that **`88` accounts are custody deposits (not Town expenditures)** and **`82` and `90` accounts are trust funds for designated purposes (not departmental budgeted spending)**. These should be separately accounted for and **excluded from department-budget expenditure calculations** without deleting them from the raw ledger.
+
+She referred to additional attachments, but **no new files from the November 25 email were available for verification during this update**. Therefore do not label the remaining-year reports received or claim to know their row counts. See [classification rules, exclusions and verification status](../2026-11-25-accounting-classification/README.md).
+
 ## Updated gaps
 
 1. **Need the rest of the same FY-by-fund report:** Donna offered remaining FY2023–FY2026 and FY2027 YTD; request them if a fully consistent fund/account-based history is needed (very likely useful for a department-by-department hub). Clarify whether each report includes the same payroll-deduction/pass-through/refund sections, so they can be isolated.
