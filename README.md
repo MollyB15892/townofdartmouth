@@ -33,6 +33,8 @@ See [research standards](research/RESEARCH_STANDARDS.md), [official source regis
 
 ## Town records received
 
+- [November 25, 2026 additional FY2023–FY2027 fund invoice reports](records/2026-11-25-full-fund-invoice-histories/README.md): all six FY2022–FY2027 YTD reports now received; 133,964 rows, substantially overlapping earlier invoices; Donna clarified how to separate custody/trust funds and refunds. Raw workbooks withheld from this **public** repository.
+
 - [November 24, 2026 Accounting clarification and FY2022 fund-level report](records/2026-11-24-accounting-clarification/README.md): Donna confirmed capital and special-fund invoice coverage; payroll excluded; additional 2022 full-fund invoice history received and inventoried (overlaps older records, includes pass-throughs and R-warrant refunds). Other years offered but **not yet requested**.
 
 - [November 19, 2026 formal DPW records response](public-records-requests/2026-11-19-dpw-records-production/README.md): 59-page official reply, current organization chart and FY2022–FY2026 payroll detail received; PDF itself not yet uploaded
@@ -42,7 +44,7 @@ See [research standards](research/RESEARCH_STANDARDS.md), [official source regis
 
 ## Current records requests
 
-- [2026-11-10 municipal expenditure and vendor data request](public-records-requests/2026-11-10-financial-records-request.md) — seven workbooks received November 12; follow-up response and extra FY2022 workbook received November 24; remaining fiscal-year fund-level reports and payroll are distinct follow-ups.
+- [2026-11-10 municipal expenditure and vendor data request](public-records-requests/2026-11-10-financial-records-request.md) — seven workbooks received November 12; follow-up response and extra FY2022 workbook received November 24; remaining-year fund-level reports received November 25; **townwide payroll and reconciliation** remain open.
 
 ## Status
 
