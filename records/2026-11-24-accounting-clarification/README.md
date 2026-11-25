@@ -42,7 +42,7 @@ The separate FY2022 history is **not a new independent pool of FY2022 spending t
 
 Donna subsequently clarified that **`88` accounts are custody deposits (not Town expenditures)** and **`82` and `90` accounts are trust funds for designated purposes (not departmental budgeted spending)**. These should be separately accounted for and **excluded from department-budget expenditure calculations** without deleting them from the raw ledger.
 
-She referred to additional attachments, but **no new files from the November 25 email were available for verification during this update**. Therefore do not label the remaining-year reports received or claim to know their row counts. See [classification rules, exclusions and verification status](../2026-11-25-accounting-classification/README.md).
+She attached additional FY2023–FY2027 XLSX workbooks. **The five source files were subsequently supplied and inspected, and are inventoried [here](../2026-11-25-full-fund-invoice-histories/README.md).** The reports overlap the earlier exports; do not aggregate them additively. See [classification rules](../2026-11-25-accounting-classification/README.md).
 
 ## Updated gaps
 
@@ -58,7 +58,7 @@ She referred to additional attachments, but **no new files from the November 25 
 - [x] Follow-up financial completeness email sent November 24
 - [x] Donna's response received and categorized November 24
 - [x] Additional FY2022 fund-level report received and mechanically inspected November 24
-- [ ] Remaining FY2023–FY2026 / FY2027 YTD same-format exports requested (**not yet sent**)
+- [x] Remaining FY2023–FY2026 / FY2027 YTD same-format exports **received November 25**
 - [ ] Additional payroll request confirmed or sent (**not yet confirmed**)
 - [ ] Full accounting definition / reconciliation work completed
 
